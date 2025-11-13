@@ -82,9 +82,7 @@
       - MVC
       - Blade
   - Devops
-    - Nginx
     - Apache
-    - CI & CD
   - Cloud
     - AWS
     - GCP
@@ -93,6 +91,8 @@
   - Frontend
     - Vue.js
     - Inertia.js
+    -bootstrap
+    -tailwind
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
