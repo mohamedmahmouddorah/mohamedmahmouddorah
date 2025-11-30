@@ -29,12 +29,12 @@
  <a href="https://www.linkedin.com/in/mohamedmahmouddorah" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mohamedmahmouddorah"/>
  </a>
- <a href="https://github.com/mohamedmahmouddorah" target="_blank">
+ <a href="https://www.facebook.com/share/17vib4Xr3A/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="mohamedmahmoud"  />
  </a> 
- <a href="https://github.com/mohamedmahmouddorah" target="_blank">
+/* <a href="https://github.com/mohamedmahmouddorah" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="mohamedmahmoud"  />
- </a>
+ </a>*/
  <a href="https://wa.me/qr/JQSGATTEZSN5B1" target="_blank">
   <img src="https://img.shields.io/badge/whatsapp%20-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"  />
  </a> 
