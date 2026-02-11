@@ -1,16 +1,13 @@
 <!-- [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc) -->
 
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;" /><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;" />
 
-
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"/><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"/>
-
+<br clear="both" />
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There! 👋 , I'm Mohamed Mahmoud
-        </samp>
+  <samp>&gt; Hey There! 👋 , I'm Mohamed Mahmoud</samp>
 </h3>
-
 
 <p align="center"> 
   <samp>
@@ -20,7 +17,6 @@
     <br>
   </samp>
 </p>
-
 
 <p align="center">
  <a href="https://github.com/mohamedmahmouddorah" target="blank">
@@ -32,14 +28,16 @@
  <a href="https://www.facebook.com/share/17vib4Xr3A/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="mohamedmahmoud"  />
  </a> 
-<a href="https://github.com/mohamedmahmouddorah" target="_blank">
+ <a href="https://github.com/mohamedmahmouddorah" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="mohamedmahmoud"  />
  </a>
  <a href="https://wa.me/qr/JQSGATTEZSN5B1" target="_blank">
   <img src="https://img.shields.io/badge/whatsapp%20-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"  />
  </a> 
 </p>
+
 <br />
+
 <p align="center"> 
   <samp>
     <br>
@@ -64,10 +62,9 @@
 
 <br>
 
-#  About Me:
+# About Me:
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
 
 - Software Engineer 
   - PHP Developer 
@@ -94,7 +91,6 @@
     - bootstrap
     - tailwind
     - React
-
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -159,7 +155,9 @@
 
 ## Top Open Source 
 <p align="left">
-  <a href="https://github.com/mohamedmahmouddorah?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/mohamedmahmouddorah?tab=repositories" target="_blank">
+    <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/>
+  </a>
 </p>
 
 <br/>
@@ -167,7 +165,7 @@
 <br/>
 
 <h2 align="center">
-             <samp> Github Stats </samp>
+  <samp> Github Stats </samp>
 </h2>
 
 <p align="center">
@@ -182,11 +180,14 @@
   </a>
 </p>
 
-<a> 
-    <a href="https://github.com/mohamedmahmouddorah"><img alt="mohamedmahmouddorah's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mohamedmahmouddorah&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/mohamedmahmouddorah"><img alt="mohamedmahmouddorah's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mohamedmahmouddorah&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+<p align="center">
+  <a href="https://github.com/mohamedmahmouddorah">
+    <img alt="mohamedmahmouddorah's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mohamedmahmouddorah&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+  </a>
+  <a href="https://github.com/mohamedmahmouddorah">
+    <img alt="mohamedmahmouddorah's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mohamedmahmouddorah&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+  </a>
+</p>
 
 ![mohamedmahmouddorah's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamedmahmouddorah&custom_title=mohamedmahmouddorah's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
@@ -198,7 +199,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mohamedmahmouddorah&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<a href="https://komarev.com/ghpvc/?username=mohamedmahmouddorah">
-  <img align="center" src="https://komarev.com/ghpvc/?username=mohamedmahmouddorah&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
