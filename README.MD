@@ -186,16 +186,3 @@
 </a>
 
 ![mohamedmahmouddorah's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamedmahmouddorah&custom_title=mohamedmahmouddorah's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mohamedmahmouddorah&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=mohamedmahmouddorah&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<a href="https://komarev.com/ghpvc/?username=mohamedmahmouddorah">
-  <img align="center" src="https://komarev.com/ghpvc/?username=mohamedmahmouddorah&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
