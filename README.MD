@@ -32,7 +32,7 @@
  <a href="https://www.facebook.com/share/17vib4Xr3A/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="mohamedmahmoud"  />
  </a> 
- <a href="https://wa.me/qr/JQSGATTEZSN5B1" target="_blank">
+ <a href="https://wa.me/message/OHRBZ3GWRKHQP1" target="_blank">
   <img src="https://img.shields.io/badge/whatsapp%20-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"  />
  </a> 
 </p>
@@ -40,7 +40,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 Contact me at <b>mohamedmahmouddorah@gmail.com</b> | Phone: <b>01270846364</b> 」
+    「 Contact me at <b>mohamedmahmouddorah@gmail.com</b> | Phone: <b>01017541628</b> 」
     <br>
     <br>
   </samp>
